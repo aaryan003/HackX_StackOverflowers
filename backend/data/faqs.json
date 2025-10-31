@@ -1,0 +1,144 @@
+{
+  "faqs": [
+    {
+      "id": "faq_001",
+      "category": "Admissions",
+      "question": "What is the admission process for B.Tech?",
+      "answer": "The admission process involves: 1) Online application on university portal, 2) Entrance exam (JEE/GUJCET), 3) Counseling based on rank, 4) Document verification, 5) Fee payment. Applications open in May every year.",
+      "keywords": ["admission", "btech", "process", "entrance", "application"]
+    },
+    {
+      "id": "faq_002",
+      "category": "Fees",
+      "question": "What are the fee payment deadlines?",
+      "answer": "Semester fees must be paid by: Odd Semester - July 15th, Even Semester - December 15th. Late fee of Rs.500 applies after deadline. Installment facility available on request to accounts department.",
+      "keywords": ["fees", "payment", "deadline", "semester", "installment"]
+    },
+    {
+      "id": "faq_003",
+      "category": "Scholarships",
+      "question": "What scholarships are available?",
+      "answer": "Available scholarships: 1) Merit scholarship (80%+ marks) - 50% fee waiver, 2) SC/ST scholarship - full fee waiver, 3) Sports scholarship - 25% fee waiver, 4) NSP scholarship - government funded. Apply through scholarship portal before August 31st.",
+      "keywords": ["scholarship", "financial aid", "merit", "fee waiver"]
+    },
+    {
+      "id": "faq_004",
+      "category": "Examinations",
+      "question": "When are the semester exams held?",
+      "answer": "Semester exams schedule: Odd Semester (Nov-Dec), Even Semester (Apr-May). Mid-semester exams are held in September and February. Exam timetable is released 15 days before exams on university website.",
+      "keywords": ["exam", "examination", "semester", "timetable", "schedule"]
+    },
+    {
+      "id": "faq_005",
+      "category": "Hostel",
+      "question": "How do I apply for hostel accommodation?",
+      "answer": "Hostel application process: 1) Fill online hostel form, 2) Pay hostel fees (Rs.45,000/year), 3) Submit ID proof and parent consent, 4) Allotment based on distance from university. Separate hostels for boys and girls. Mess facility available.",
+      "keywords": ["hostel", "accommodation", "mess", "residence"]
+    },
+    {
+      "id": "faq_006",
+      "category": "Library",
+      "question": "What are the library timings?",
+      "answer": "Central Library timings: Monday-Friday 8:00 AM to 8:00 PM, Saturday 9:00 AM to 5:00 PM, Sunday closed. Students can borrow 3 books for 15 days. Digital library access 24/7 with student ID.",
+      "keywords": ["library", "books", "timings", "digital library"]
+    },
+    {
+      "id": "faq_007",
+      "category": "Placements",
+      "question": "What is the placement process?",
+      "answer": "Placement process: 1) Register with Training & Placement cell in final year, 2) Attend pre-placement training, 3) Companies visit campus Sept-March, 4) Participate in interviews. Average package: 4.5 LPA. Top recruiters: TCS, Infosys, Wipro.",
+      "keywords": ["placement", "campus recruitment", "job", "training"]
+    },
+    {
+      "id": "faq_008",
+      "category": "Timetable",
+      "question": "Where can I find my class timetable?",
+      "answer": "Class timetables are available: 1) University ERP portal under 'Academics' section, 2) Notice board in respective departments, 3) Department HOD office. Timetable updated every semester. Lab schedules may change based on availability.",
+      "keywords": ["timetable", "schedule", "class", "timing"]
+    },
+    {
+      "id": "faq_009",
+      "category": "Documents",
+      "question": "What documents are needed for admission?",
+      "answer": "Required documents: 1) 10th and 12th mark sheets, 2) Transfer certificate, 3) Migration certificate, 4) Aadhar card, 5) Passport size photos (4 copies), 6) Category certificate (if applicable), 7) Income certificate for scholarship. All documents should be self-attested.",
+      "keywords": ["documents", "certificates", "admission", "required"]
+    },
+    {
+      "id": "faq_010",
+      "category": "Attendance",
+      "question": "What is the minimum attendance requirement?",
+      "answer": "Minimum 75% attendance is mandatory for all courses. Students with less than 75% will not be allowed to appear in semester exams. Medical leave requires doctor's certificate submitted within 3 days. Attendance is tracked through biometric system.",
+      "keywords": ["attendance", "minimum", "medical leave", "biometric"]
+    },
+    {
+      "id": "faq_011",
+      "category": "Results",
+      "question": "How do I check my exam results?",
+      "answer": "Exam results are published on university ERP portal within 30 days of exam completion. Login with enrollment number and password. Download grade sheet from 'Examination' section. For revaluation, apply within 7 days with Rs.500 fee per subject.",
+      "keywords": ["results", "grades", "marks", "revaluation"]
+    },
+    {
+      "id": "faq_012",
+      "category": "Faculty",
+      "question": "How can I contact my faculty?",
+      "answer": "Faculty contact: 1) Email available on department page, 2) Consultation hours displayed on faculty cabin, 3) Faculty room numbers in department office, 4) Online doubt clearing through LMS portal. Response time: within 24 hours on working days.",
+      "keywords": ["faculty", "teacher", "professor", "contact"]
+    },
+    {
+      "id": "faq_013",
+      "category": "Transport",
+      "question": "Is bus facility available?",
+      "answer": "University provides bus facility from major locations in city. Bus pass: Rs.8,000 per semester. Routes cover: Railway station, ISCON, Paldi, Maninagar, Satellite. Bus timings: Morning 7:30 AM, Evening 5:30 PM. Apply for bus pass at transport office.",
+      "keywords": ["bus", "transport", "facility", "pass"]
+    },
+    {
+      "id": "faq_014",
+      "category": "Clubs",
+      "question": "What student clubs are available?",
+      "answer": "Active student clubs: 1) Technical clubs (Coding, Robotics, AI), 2) Cultural clubs (Dance, Music, Drama), 3) Sports clubs (Cricket, Football, Basketball), 4) Social service club (NSS). Join through club recruitment drives in July-August.",
+      "keywords": ["clubs", "activities", "extracurricular", "technical"]
+    },
+    {
+      "id": "faq_015",
+      "category": "ID Card",
+      "question": "How do I get my student ID card?",
+      "answer": "ID card process: 1) Submit ID card form with photo to admin office, 2) Pay Rs.200 for new card, 3) Collect card within 7 days. Lost ID card: File FIR, submit affidavit, pay Rs.500 for duplicate. ID card mandatory for library, hostel, and exam entry.",
+      "keywords": ["id card", "student card", "identity", "duplicate"]
+    },
+    {
+      "id": "faq_016",
+      "category": "Internship",
+      "question": "Are internships mandatory?",
+      "answer": "Internships are mandatory for B.Tech students in 6th semester (minimum 4-6 weeks). Students must submit: 1) Internship offer letter, 2) Weekly reports, 3) Final internship report, 4) Certificate from company. Evaluation carries 100 marks. Training cell assists in finding internships.",
+      "keywords": ["internship", "industrial training", "mandatory", "summer"]
+    },
+    {
+      "id": "faq_017",
+      "category": "WiFi",
+      "question": "How do I access campus WiFi?",
+      "answer": "Campus WiFi access: 1) Connect to 'Ganpat-Student' network, 2) Login with enrollment number and password, 3) Available in academic blocks, library, cafeteria. Speed: 10 Mbps per user. IT helpdesk for password reset. Data usage limit: 5GB per day.",
+      "keywords": ["wifi", "internet", "network", "connectivity"]
+    },
+    {
+      "id": "faq_018",
+      "category": "Grievances",
+      "question": "How do I file a grievance?",
+      "answer": "Grievance redressal: 1) Submit written complaint to Grievance cell, 2) Online grievance portal on university website, 3) Anonymous complaint box in administration block. Response time: 7 working days. For urgent issues, contact Dean Student Welfare directly.",
+      "keywords": ["grievance", "complaint", "problem", "issue"]
+    },
+    {
+      "id": "faq_019",
+      "category": "Medical",
+      "question": "Is medical facility available on campus?",
+      "answer": "Medical facilities: 1) Campus health center open 9 AM to 5 PM, 2) Doctor available on call, 3) First aid and basic medicines free, 4) Ambulance service for emergencies, 5) Tie-up with nearby hospital for major treatments. Health insurance optional.",
+      "keywords": ["medical", "health", "doctor", "emergency"]
+    },
+    {
+      "id": "faq_020",
+      "category": "Events",
+      "question": "What are the major annual events?",
+      "answer": "Major events: 1) Tech Fest (January) - hackathons, competitions, 2) Cultural Fest (February) - dance, music, drama, 3) Sports Week (March) - inter-college tournaments, 4) Convocation (May) - degree distribution. All students encouraged to participate and volunteer.",
+      "keywords": ["events", "fest", "cultural", "technical", "sports"]
+    }
+  ]
+}
