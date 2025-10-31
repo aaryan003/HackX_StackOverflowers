@@ -1,0 +1,95 @@
+[
+  {
+    "session_id": "test_session_1",
+    "original_query": "What is the fee payment deadline?",
+    "detected_language": "en",
+    "language_name": "English",
+    "english_query": "What is the fee payment deadline?",
+    "response": "Hello! I'd be happy to help you with that. The fee payment deadlines for Ganpat University are as follows: \n- For the Odd Semester, the deadline is July 15th.\n- For the Even Semester, the deadline is December 15th.\nPlease note that a late fee of Rs.500 will be applied if the payment is made after the deadline. Additionally, you can request an installment facility from the accounts department if needed.",
+    "english_response": "Hello! I'd be happy to help you with that. The fee payment deadlines for Ganpat University are as follows: \n- For the Odd Semester, the deadline is July 15th.\n- For the Even Semester, the deadline is December 15th.\nPlease note that a late fee of Rs.500 will be applied if the payment is made after the deadline. Additionally, you can request an installment facility from the accounts department if needed.",
+    "confidence": 0.8999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Fees",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Fees",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Fees",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-10-31T14:34:42.316332",
+    "conversation_id": "conv_0ec92df542c9",
+    "user_id": null
+  },
+  {
+    "session_id": "test_session_1",
+    "original_query": "मुझे छात्रवृत्ति के बारे में बताओ",
+    "detected_language": "hi",
+    "language_name": "Hindi",
+    "english_query": "मुझे छात्रवृत्ति के बारे में बताओ",
+    "response": "नमस्ते! मैं आपकी मदद करने के लिए यहाँ हूँ। छात्रवृत्ति के बारे में जानकारी के लिए, मुझे खेद है कि मेरे पास इस संबंध में कोई जानकारी नहीं है। मैं आपको सुझाव देता हूँ कि आप संबंधित विभाग से संपर्क करें जो छात्रवृत्ति से संबंधित मामलों को संभालता है। दुर्भाग्य से, मेरे पास छात्रवृत्ति विभाग के बारे में कोई जानकारी नहीं है, लेकिन आप परीक्षा विभाग से संपर्क करने का प्रयास कर सकते हैं और वे आपको उचित दिशा में मार्गदर्शन कर सकते हैं। परीक्षा विभाग का ईमेल exams@ganpatuniversity.ac.in है और फोन नंबर 079-23267521 Ext: 456 है।",
+    "english_response": "नमस्ते! मैं आपकी मदद करने के लिए यहाँ हूँ। छात्रवृत्ति के बारे में जानकारी के लिए, मुझे खेद है कि मेरे पास इस संबंध में कोई जानकारी नहीं है। मैं आपको सुझाव देता हूँ कि आप संबंधित विभाग से संपर्क करें जो छात्रवृत्ति से संबंधित मामलों को संभालता है। दुर्भाग्य से, मेरे पास छात्रवृत्ति विभाग के बारे में कोई जानकारी नहीं है, लेकिन आप परीक्षा विभाग से संपर्क करने का प्रयास कर सकते हैं और वे आपको उचित दिशा में मार्गदर्शन कर सकते हैं। परीक्षा विभाग का ईमेल exams@ganpatuniversity.ac.in है और फोन नंबर 079-23267521 Ext: 456 है।",
+    "confidence": 0.7999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-10-31T14:35:49.210247",
+    "conversation_id": "conv_ea2d647eb0ae",
+    "user_id": null
+  },
+  {
+    "session_id": "test_session_1",
+    "original_query": "હોસ્ટેલની સુવિધાઓ શું છે?",
+    "detected_language": "gu",
+    "language_name": "Gujarati",
+    "english_query": "હોસ્ટેલની સુવિધાઓ શું છે?",
+    "response": "નમસ્તે! હોસ્ટેલની સુવિધાઓ વિશે માહિતી માટે, મારી પાસે સંપૂર્ણ વિગતો નથી, પરંતુ હું તમને હોસ્ટેલ ઓફિસનો સંપર્ક કરવાની સલાહ આપીશ. તમે હોસ્ટેલ ઓફિસને ઈમેલ કરી શકો છો: hostel@ganpatuniversity.ac.in અથવા ઓફિસ કલાકોમાં (9 AM - 5 PM) દરમિયાન મુલાકાત લઈ શકો છો. બોય્સ હોસ્ટેલ વાર્ડન, પ્રો. અનિલ મહેતા - 9898989898 અથવા ગર્લ્સ હોસ્ટેલ વાર્ડન, ડો. સ્નેહા પટે",
+    "english_response": "નમસ્તે! હોસ્ટેલની સુવિધાઓ વિશે માહિતી માટે, મારી પાસે સંપૂર્ણ વિગતો નથી, પરંતુ હું તમને હોસ્ટેલ ઓફિસનો સંપર્ક કરવાની સલાહ આપીશ. તમે હોસ્ટેલ ઓફિસને ઈમેલ કરી શકો છો: hostel@ganpatuniversity.ac.in અથવા ઓફિસ કલાકોમાં (9 AM - 5 PM) દરમિયાન મુલાકાત લઈ શકો છો. બોય્સ હોસ્ટેલ વાર્ડન, પ્રો. અનિલ મહેતા - 9898989898 અથવા ગર્લ્સ હોસ્ટેલ વાર્ડન, ડો. સ્નેહા પટે",
+    "confidence": 0.7999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-10-31T14:36:38.256130",
+    "conversation_id": "conv_093b3949a44c",
+    "user_id": null
+  }
+]
