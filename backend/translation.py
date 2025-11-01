@@ -5,7 +5,7 @@ Handles language detection and translation for Indian languages
 
 import logging
 from typing import Dict, Optional, Tuple
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 from langdetect import detect, DetectorFactory
 import time
 
@@ -43,7 +43,6 @@ class TranslationService:
         Args:
             default_language: Default language code (default: 'en')
         """
-        self.translator = Translator()
         self.default_language = default_language
         self.translation_cache = {}  # Simple cache to reduce API calls
         logger.info(f"Translation Service initialized with {len(self.SUPPORTED_LANGUAGES)} languages")
@@ -117,22 +116,16 @@ class TranslationService:
             max_retries = 3
             for attempt in range(max_retries):
                 try:
-                    translation = self.translator.translate(
-                        text,
-                        src=src_lang,
-                        dest=dest_lang
-                    )
-                    
-                    translated_text = translation.text
-                    detected_lang = translation.src
+                    translator = GoogleTranslator(source=src_lang, target=dest_lang)
+                    translated_text = translator.translate(text)
                     
                     logger.info(f"Translation successful (attempt {attempt + 1})")
                     
                     # Cache the result
                     if use_cache:
-                        self.translation_cache[cache_key] = (translated_text, detected_lang)
+                        self.translation_cache[cache_key] = (translated_text, src_lang)
                     
-                    return translated_text, detected_lang
+                    return translated_text, src_lang
                     
                 except Exception as e:
                     if attempt < max_retries - 1:

@@ -91,5 +91,98 @@
     "timestamp": "2025-10-31T14:36:38.256130",
     "conversation_id": "conv_093b3949a44c",
     "user_id": null
+  },
+  {
+    "session_id": "30771b19-fb44-4014-aa1d-b7e63a626e13",
+    "original_query": "What scholarships are available?",
+    "detected_language": "en",
+    "language_name": "English",
+    "english_query": "What scholarships are available?",
+    "response": "Hello! I'd be happy to help you with the available scholarships at Ganpat University. We have several options:\n\n1. Merit scholarship: If you have 80% or more marks, you can get a 50% fee waiver.\n2. SC/ST scholarship: This offers a full fee waiver.\n3. Sports scholarship: You can get a 25% fee waiver.\n4. NSP scholarship: This is a government-funded scholarship.\n5. Need-based scholarship: If your family income is below Rs. 2.5 Lakhs per annum, you can get a 30% tuition fee waiver.\n6. SC/ST Government Scholarship: This offers full fee reimbursement by the government for SC/ST category students.\n\nTo apply for the first four scholarships, please use our scholarship portal before August 31st. For the SC/ST Government Scholarship, you can apply through the National Scholarship Portal (scholarships.gov.in).\n\nIf you have any more questions or need further assistance, feel free to ask!",
+    "english_response": "Hello! I'd be happy to help you with the available scholarships at Ganpat University. We have several options:\n\n1. Merit scholarship: If you have 80% or more marks, you can get a 50% fee waiver.\n2. SC/ST scholarship: This offers a full fee waiver.\n3. Sports scholarship: You can get a 25% fee waiver.\n4. NSP scholarship: This is a government-funded scholarship.\n5. Need-based scholarship: If your family income is below Rs. 2.5 Lakhs per annum, you can get a 30% tuition fee waiver.\n6. SC/ST Government Scholarship: This offers full fee reimbursement by the government for SC/ST category students.\n\nTo apply for the first four scholarships, please use our scholarship portal before August 31st. For the SC/ST Government Scholarship, you can apply through the National Scholarship Portal (scholarships.gov.in).\n\nIf you have any more questions or need further assistance, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Scholarships",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Scholarships",
+        "source": "FAQ"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-01T21:33:54.883620",
+    "conversation_id": "conv_c2679a90709a",
+    "user_id": null
+  },
+  {
+    "session_id": "30771b19-fb44-4014-aa1d-b7e63a626e13",
+    "original_query": "મેરીટ એટલે શું?",
+    "detected_language": "gu",
+    "language_name": "Gujarati",
+    "english_query": "What is Merit?",
+    "response": "હેલો. ગણપત યુનિવર્સિટીમાં, \"મેરિટ\" એ મેરિટ-આધારિત શિષ્યવૃત્તિનો સંદર્ભ આપે છે, જે તેમના અગાઉના સત્રમાં 80% અથવા તેથી વધુ પ્રાપ્ત કરનારા વિદ્યાર્થીઓને આપવામાં આવે છે. આ શિષ્યવૃત્તિ 50% ટ્યુશન ફી માફી આપે છે, અને આવી 50 શિષ્યવૃત્તિઓ ઉપલબ્ધ છે. જો તમે અરજી કરવામાં રસ ધરાવો છો, તો અરજીની શરૂઆતની તારીખ 15મી જાન્યુઆરી 2025 છે, અને અરજી કરવાની છેલ્લી તારીખ 31મી માર્ચ 2025 છે. વધુ માહિતી માટે અથવા કોઈપણ શંકાઓને સ્પષ્ટ કરવા માટે, તમે રૂમ નંબર: 204, એડમિનિસ્ટ્રેશન બ્લોક પરના શિષ્યવૃત્તિ સેલનો સંપર્ક કરી શકો છો અથવા તેમને Scholarships@ganpatuniversity.acpatunivers પર ઇમેઇલ કરી શકો છો.",
+    "english_response": "Hello. At Ganpat University, \"Merit\" refers to the Merit-Based Scholarship, which is awarded to students who have achieved 80% or above in their previous semester. This scholarship offers a 50% tuition fee waiver, and there are 50 such scholarships available. If you're interested in applying, the application start date is 15th January 2025, and the last date to apply is 31st March 2025. For more information or to clarify any doubts, you can reach out to the Scholarship Cell at Room No: 204, Administration Block, or email them at scholarships@ganpatuniversity.ac.in.",
+    "confidence": 0.7999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-01T21:35:12.354570",
+    "conversation_id": "conv_85d0da6c9958",
+    "user_id": null
+  },
+  {
+    "session_id": "32bede8b-01bc-4f62-a9f1-d7cadf37a518",
+    "original_query": "when is the last of exam",
+    "detected_language": "en",
+    "language_name": "English",
+    "english_query": "when is the last of exam",
+    "response": "મારી પાસેની માહિતીમાં પરીક્ષાની છેલ્લી તારીખનો ઉલ્લેખ કરવામાં આવ્યો નથી. જો કે, હું તમને કહી શકું છું કે પરીક્ષાનો સમય સવારના સત્ર માટે 10:00 AM - 1:00 PM અને બપોરે 2:00 PM - 5:00 PM નો છે. જો તમે ચોક્કસ તારીખો શોધી રહ્યાં છો, તો હું વધુ વિગતો માટે \"પરીક્ષાઓ\" વિભાગ હેઠળ નોટિસ બોર્ડ અથવા ERP પોર્ટલ તપાસવાની ભલામણ કરું છું. તમે વધુ સહાયતા માટે પરીક્ષા વિભાગનો પણ સંપર્ક કરી શકો છો.",
+    "english_response": "The last date of the exam isn't specified in the information I have. However, I can tell you that the exam timings are from 10:00 AM - 1:00 PM for the morning session and 2:00 PM - 5:00 PM for the afternoon session. If you're looking for the exact dates, I recommend checking the notice board or the ERP Portal under the \"Examinations\" section for more details. You can also contact the examination department for further assistance.",
+    "confidence": 0.7999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-01T21:43:59.732580",
+    "conversation_id": "conv_c206a349e9ae",
+    "user_id": null
   }
 ]

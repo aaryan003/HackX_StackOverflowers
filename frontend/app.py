@@ -9,7 +9,9 @@ import time
 # ============================================================================
 # CONFIGURATION
 # ============================================================================
-API_BASE_URL = "http://localhost:8000"
+import os
+
+API_BASE_URL = os.getenv("BACKEND_URL", "http://localhost:8000")
 PAGE_TITLE = "UniVerse - Intelligent Communication, Reimagined"
 PAGE_ICON = ""
 

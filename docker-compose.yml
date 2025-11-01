@@ -1,0 +1,68 @@
+version: '3.8'
+
+services:
+  # Backend API Service
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: chatbot-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - API_HOST=0.0.0.0
+      - API_PORT=8000
+      - CHROMA_PERSIST_DIRECTORY=/app/chroma_db
+      - LOG_LEVEL=INFO
+    volumes:
+      # Persist vector database
+      - backend-chroma:/app/chroma_db
+      # Persist conversation logs
+      - backend-logs:/app/logs
+      # Mount data directory (read-only)
+      - ./backend/data:/app/data:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    networks:
+      - chatbot-network
+
+  # Frontend UI Service
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: chatbot-frontend
+    ports:
+      - "8501:8501"
+    environment:
+      - BACKEND_URL=http://backend:8000
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    networks:
+      - chatbot-network
+
+# Named volumes for data persistence
+volumes:
+  backend-chroma:
+    driver: local
+  backend-logs:
+    driver: local
+
+# Network for service communication
+networks:
+  chatbot-network:
+    driver: bridge
