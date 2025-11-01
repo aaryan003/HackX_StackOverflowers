@@ -1,5 +1,4 @@
 ---
-
 # 🎓 Language-Agnostic Campus Chatbot
 
 **Team:** Stack Overflowers | **University:** Ganpat University – ICT
