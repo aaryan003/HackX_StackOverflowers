@@ -1,5 +1,3 @@
-Here’s your **final short and professional README**, perfectly formatted for GitHub — clean, modern, and to the point 👇
-
 ---
 
 # 🎓 Language-Agnostic Campus Chatbot
