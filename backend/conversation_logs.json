@@ -184,5 +184,594 @@
     "timestamp": "2025-11-01T21:43:59.732580",
     "conversation_id": "conv_c206a349e9ae",
     "user_id": null
+  },
+  {
+    "session_id": "1591c12f-5ce9-470a-9efe-7a889a85251b",
+    "original_query": "What courses does the college offer?",
+    "detected_language": "en",
+    "language_name": "English",
+    "english_query": "What courses does the college offer?",
+    "response": "I'm happy to help you with your query. However, I don't have information about the courses offered by Ganpat University in the context provided. I recommend contacting the Academic Department or checking the university's website for the most up-to-date and accurate information about the courses available. They will be able to provide you with the details you're looking for. Is there anything else I can help you with, perhaps regarding placements or pre-placement training?",
+    "english_response": "I'm happy to help you with your query. However, I don't have information about the courses offered by Ganpat University in the context provided. I recommend contacting the Academic Department or checking the university's website for the most up-to-date and accurate information about the courses available. They will be able to provide you with the details you're looking for. Is there anything else I can help you with, perhaps regarding placements or pre-placement training?",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-01T23:39:54.145302",
+    "conversation_id": "conv_84f2bf6c1167",
+    "user_id": null
+  },
+  {
+    "session_id": "1591c12f-5ce9-470a-9efe-7a889a85251b",
+    "original_query": "What courses does the college offer?",
+    "detected_language": "en",
+    "language_name": "English",
+    "english_query": "What courses does the college offer?",
+    "response": "मुझे आपकी क्वेरी में मदद करने में ख़ुशी होगी। हालाँकि, मुझे दिए गए संदर्भ में गणपत विश्वविद्यालय द्वारा प्रस्तावित पाठ्यक्रमों के बारे में जानकारी नहीं है। मैं उपलब्ध पाठ्यक्रमों के बारे में नवीनतम और सटीक जानकारी के लिए शैक्षणिक विभाग से संपर्क करने या विश्वविद्यालय की वेबसाइट की जांच करने की सलाह देता हूं। वे आपको वह विवरण प्रदान करने में सक्षम होंगे जो आप तलाश रहे हैं। क्या ऐसी कोई और चीज़ है जिसमें मैं आपकी मदद कर सकता हूँ, शायद प्लेसमेंट या प्री-प्लेसमेंट प्रशिक्षण के संबंध में?",
+    "english_response": "I'm happy to help you with your query. However, I don't have information about the courses offered by Ganpat University in the context provided. I recommend contacting the Academic Department or checking the university's website for the most up-to-date and accurate information about the courses available. They will be able to provide you with the details you're looking for. Is there anything else I can help you with, perhaps regarding placements or pre-placement training?",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-01T23:42:57.866249",
+    "conversation_id": "conv_565f259d02eb",
+    "user_id": null
+  },
+  {
+    "session_id": "01191078-a3db-4419-811c-b81081f60bea",
+    "original_query": "What scholarships are available?",
+    "detected_language": "en",
+    "language_name": "English",
+    "english_query": "What scholarships are available?",
+    "response": "Hello! I'd be happy to help you with the available scholarships at Ganpat University. We have several options:\n\n1. Merit scholarship: If you have 80% or more marks, you can get a 50% fee waiver.\n2. SC/ST scholarship: This offers a full fee waiver.\n3. Sports scholarship: You can get a 25% fee waiver.\n4. NSP scholarship: This is a government-funded scholarship.\n5. Need-based scholarship: If your family income is below Rs. 2.5 Lakhs per annum, you can get a 30% tuition fee waiver. We have 100 of these scholarships available.\n6. SC/ST Government Scholarship: This offers full fee reimbursement by the government for SC/ST category students.\n\nTo apply for the merit, sports, and NSP scholarships, please use our scholarship portal before August 31st. For the SC/ST Government Scholarship, you can apply through the National Scholarship Portal (scholarships.gov.in).\n\nIf you have any more questions or need further assistance, feel free to ask!",
+    "english_response": "Hello! I'd be happy to help you with the available scholarships at Ganpat University. We have several options:\n\n1. Merit scholarship: If you have 80% or more marks, you can get a 50% fee waiver.\n2. SC/ST scholarship: This offers a full fee waiver.\n3. Sports scholarship: You can get a 25% fee waiver.\n4. NSP scholarship: This is a government-funded scholarship.\n5. Need-based scholarship: If your family income is below Rs. 2.5 Lakhs per annum, you can get a 30% tuition fee waiver. We have 100 of these scholarships available.\n6. SC/ST Government Scholarship: This offers full fee reimbursement by the government for SC/ST category students.\n\nTo apply for the merit, sports, and NSP scholarships, please use our scholarship portal before August 31st. For the SC/ST Government Scholarship, you can apply through the National Scholarship Portal (scholarships.gov.in).\n\nIf you have any more questions or need further assistance, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Scholarships",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Scholarships",
+        "source": "FAQ"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-01T23:44:25.315984",
+    "conversation_id": "conv_56cdb70be4ac",
+    "user_id": null
+  },
+  {
+    "session_id": "01191078-a3db-4419-811c-b81081f60bea",
+    "original_query": "क् कॉलेज मेहॉसल की सुविध् उपलब है?",
+    "detected_language": "hi",
+    "language_name": "Hindi",
+    "english_query": "Is college hostel facility available?",
+    "response": "हां, कॉलेज छात्रावास की सुविधा उपलब्ध है। हमारे पास लड़कों और लड़कियों के लिए अलग-अलग छात्रावास हैं, जिनकी कुल क्षमता लड़कों के लिए 200 सीटें और लड़कियों के लिए 150 सीटें हैं। उपलब्ध कमरे के प्रकार 2-शेयरिंग और 3-शेयरिंग हैं जिनमें संलग्न शौचालय की सुविधा है। \n\nहॉस्टल के लिए आवेदन करने के लिए आप इन चरणों का पालन कर सकते हैं:\n1. हमारी वेबसाइट से छात्रावास आवेदन पत्र डाउनलोड करें\n2. अपने माता-पिता की सहमति से पूरा विवरण भरें\n3. आईडी प्रूफ, एड्रेस प्रूफ और पासपोर्ट फोटो सहित आवश्यक दस्तावेज संलग्न करें\n4. शुल्क भुगतान रसीद के साथ आवेदन पत्र छात्रावास कार्यालय में जमा करें\n5. आवेदन के 7 दिनों के भीतर आपको आवंटन प्राप्त हो जाएगा\n\nशैक्षणिक वर्ष के लिए छात्रावास शुल्क हैं:\n- आवास: रु. 35,000\n- मेस शुल्क: रु. 40,000\n- सावधानी जमा (वापसीयोग्य): रु. 5,000\n- कुल: रु. 80,000\n\nकृपया ध्यान दें कि छात्रावास के नियमों में रात 9:00 बजे का समय, रात भर की छुट्टी के लिए आउट-पास की आवश्यकता, कमरों में आगंतुकों की अनुमति नहीं और रैगिंग सख्त वर्जित है। यदि आपके कोई और प्रश्न हैं या सहायता की आवश्यकता है, तो बेझिझक पूछें!",
+    "english_response": "Yes, the college hostel facility is available. We have separate hostels for boys and girls with a total capacity of 200 seats for boys and 150 seats for girls. The room types available are 2-sharing and 3-sharing with attached washroom facilities. \n\nTo apply for the hostel, you can follow these steps:\n1. Download the hostel application form from our website\n2. Fill in the complete details with your parent's consent\n3. Attach the required documents, including ID proof, address proof, and passport photos\n4. Submit the application to the Hostel Office along with the fees payment receipt\n5. You will receive an allotment within 7 days of application\n\nThe hostel fees for the academic year are:\n- Accommodation: Rs. 35,000\n- Mess Charges: Rs. 40,000\n- Caution Deposit (Refundable): Rs. 5,000\n- Total: Rs. 80,000\n\nPlease note that the hostel rules include an in-time of 9:00 PM, out-pass required for overnight leave, no visitors allowed in rooms, and ragging is strictly prohibited. If you have any further questions or need assistance, feel free to ask!",
+    "confidence": 0.7999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-01T23:45:09.347579",
+    "conversation_id": "conv_a8f264dfefef",
+    "user_id": null
+  },
+  {
+    "session_id": "01191078-a3db-4419-811c-b81081f60bea",
+    "original_query": "શુંકોલેજ પલેેસેેન ેહાય પૂરી પાડેછે?",
+    "detected_language": "gu",
+    "language_name": "Gujarati",
+    "english_query": "What does College Palace provide here?",
+    "response": "મને લાગે છે કે થોડી મૂંઝવણ હોઈ શકે છે. અમારી પાસે અમારા સંદર્ભમાં ઉલ્લેખિત \"કોલેજ પેલેસ\" નથી. જો કે, અમારી પાસે વિદ્યાર્થીઓ માટે કોલેજ હોસ્ટેલની સુવિધા ઉપલબ્ધ છે. જો તમે તેના વિશે માહિતી શોધી રહ્યાં છો, તો મને મદદ કરવામાં આનંદ થશે! \n\nઅમારી પાસે છોકરાઓ અને છોકરીઓ માટે અલગ હોસ્ટેલ છે જેમાં છોકરાઓ માટે 200 અને છોકરીઓ માટે 150 બેઠકોની કુલ ક્ષમતા છે. ઉપલબ્ધ રૂમના પ્રકારો 2-શેરિંગ અને 3-શેરિંગ છે જેમાં જોડાયેલ વોશરૂમ સુવિધાઓ છે. શૈક્ષણિક વર્ષ માટે હોસ્ટેલ ફી રૂ. 80,000, જેમાં રહેઠાણ, વાસણ ચાર્જ અને સાવચેતી થાપણનો સમાવેશ થાય છે.\n\nજો તમે \"કોલેજ પેલેસ\" થી સંબંધિત કંઈક વિશિષ્ટ શોધી રહ્યાં છો, તો હું માફી માંગુ છું, પરંતુ મારી પાસે તે માહિતી નથી. તેઓ તમને વધુ મદદ કરી શકે છે કે કેમ તે જોવા માટે તમે સંબંધિત વિભાગનો સંપર્ક કરી શકો છો.",
+    "english_response": "I think there might be a slight confusion. We don't have a \"College Palace\" mentioned in our context. However, we do have a college hostel facility available for students. If you're looking for information on that, I'd be happy to help! \n\nWe have separate hostels for boys and girls with a total capacity of 200 seats for boys and 150 seats for girls. The room types available are 2-sharing and 3-sharing with attached washroom facilities. The hostel fees for the academic year are Rs. 80,000, which includes accommodation, mess charges, and a caution deposit.\n\nIf you're looking for something specific related to \"College Palace\", I apologize, but I don't have that information. You might want to contact the relevant department to see if they can assist you further.",
+    "confidence": 0.7999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-01T23:46:00.853777",
+    "conversation_id": "conv_f79c628cdec5",
+    "user_id": null
+  },
+  {
+    "session_id": "01191078-a3db-4419-811c-b81081f60bea",
+    "original_query": "प्रवेशासाठी प्रवेश परीक्षा असते का?",
+    "detected_language": "mr",
+    "language_name": "Marathi",
+    "english_query": "Is there an entrance exam for admission?",
+    "response": "नमस्कार! होय, गणपत विद्यापीठात बी.टेक प्रवेशासाठी प्रवेश परीक्षा आहे. प्रवेश प्रक्रियेत पुढील चरणांचा समावेश आहे:\n\n1. विद्यापीठ पोर्टलवर ऑनलाइन अर्ज\n2. प्रवेश परीक्षा (JEE/GUJCET)\n3. रँकवर आधारित समुपदेशन\n4. दस्तऐवज पडताळणी\n5. फी भरणे\n\nB.Tech साठी दरवर्षी मे महिन्यात अर्ज उघडतात. तुम्हाला आणखी काही प्रश्न असल्यास किंवा आणखी सहाय्य हवे असल्यास, मोकळ्या मनाने विचारा!",
+    "english_response": "Hello! Yes, there is an entrance exam for admission to B.Tech at Ganpat University. The admission process involves the following steps:\n\n1. Online application on the university portal\n2. Entrance exam (JEE/GUJCET)\n3. Counseling based on rank\n4. Document verification\n5. Fee payment\n\nApplications for B.Tech open in May every year. If you have any more questions or need further assistance, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "faq",
+        "category": "Admissions",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-01T23:47:18.882567",
+    "conversation_id": "conv_93582ba88dfb",
+    "user_id": null
+  },
+  {
+    "session_id": "01191078-a3db-4419-811c-b81081f60bea",
+    "original_query": "When do placements start?",
+    "detected_language": "en",
+    "language_name": "English",
+    "english_query": "When do placements start?",
+    "response": "Placements at Ganpat University typically start with companies visiting the campus from September to March. As a student, you'll need to register with the Training & Placement cell in your final year to be eligible for the placement process. \n\nHere's a brief overview of the placement process:\n1. Register with the Training & Placement cell in your final year\n2. Attend pre-placement training, which includes:\n   - Aptitude & Reasoning sessions every Monday and Wednesday\n   - Technical Skills sessions every Tuesday and Thursday\n   - Mock Interviews every Friday\n3. Companies visit the campus from September to March\n4. Participate in interviews with the visiting companies\n\nTo prepare for placements, you'll need to bring some mandatory documents, including your updated resume, semester mark sheets, and photo ID proof, among others.\n\nIf you have any more questions or need further assistance, feel free to ask!",
+    "english_response": "Placements at Ganpat University typically start with companies visiting the campus from September to March. As a student, you'll need to register with the Training & Placement cell in your final year to be eligible for the placement process. \n\nHere's a brief overview of the placement process:\n1. Register with the Training & Placement cell in your final year\n2. Attend pre-placement training, which includes:\n   - Aptitude & Reasoning sessions every Monday and Wednesday\n   - Technical Skills sessions every Tuesday and Thursday\n   - Mock Interviews every Friday\n3. Companies visit the campus from September to March\n4. Participate in interviews with the visiting companies\n\nTo prepare for placements, you'll need to bring some mandatory documents, including your updated resume, semester mark sheets, and photo ID proof, among others.\n\nIf you have any more questions or need further assistance, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-01T23:51:18.215603",
+    "conversation_id": "conv_472ea56fa1c8",
+    "user_id": null
+  },
+  {
+    "session_id": "01191078-a3db-4419-811c-b81081f60bea",
+    "original_query": "क् कॉलेज मेप्ठेयर य् स्ास् वयक यवयविवधय्ँआयर्जय की ज्यी है?",
+    "detected_language": "hi",
+    "language_name": "Hindi",
+    "english_query": "What is the college's performance or health system's income?",
+    "response": "मुझे कॉलेज के प्रदर्शन या स्वास्थ्य प्रणाली की आय के बारे में विशेष जानकारी नहीं है। प्रदान की गई जानकारी परिसर में उपलब्ध चिकित्सा सुविधाओं के बारे में है, जिसमें एक परिसर स्वास्थ्य केंद्र, कॉल पर डॉक्टर, प्राथमिक चिकित्सा और एम्बुलेंस सेवा शामिल है। यदि आप कॉलेज के प्रदर्शन या वित्तीय विवरण के बारे में जानकारी ढूंढ रहे हैं, तो मेरा सुझाव है कि अधिक सटीक जानकारी के लिए संबंधित विभाग, जैसे प्रशासन या लेखा कार्यालय से संपर्क करें।",
+    "english_response": "I don't have the specific information about the college's performance or health system's income. The information provided is about the medical facilities available on campus, which includes a campus health center, doctor on call, first aid, and ambulance service. If you're looking for information on the college's performance or financial details, I suggest contacting the relevant department, such as the administration or accounts office, for more accurate information.",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Medical",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Medical",
+        "source": "FAQ"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-01T23:52:11.641774",
+    "conversation_id": "conv_e1672a995ee1",
+    "user_id": null
+  },
+  {
+    "session_id": "01191078-a3db-4419-811c-b81081f60bea",
+    "original_query": "प्रवेशासाठी प्रवेश परीक्षा असते का?",
+    "detected_language": "mr",
+    "language_name": "Marathi",
+    "english_query": "Is there an entrance exam for admission?",
+    "response": "नमस्कार! होय, गणपत विद्यापीठात बी.टेक प्रवेशासाठी प्रवेश परीक्षा आहे. प्रवेश प्रक्रियेत पुढील चरणांचा समावेश आहे:\n\n1. विद्यापीठ पोर्टलवर ऑनलाइन अर्ज\n2. प्रवेश परीक्षा (JEE/GUJCET)\n3. रँकवर आधारित समुपदेशन\n4. दस्तऐवज पडताळणी\n5. फी भरणे\n\nB.Tech साठी दरवर्षी मे महिन्यात अर्ज उघडतात. तुम्हाला आणखी काही प्रश्न असल्यास किंवा आणखी सहाय्य हवे असल्यास, मोकळ्या मनाने विचारा!",
+    "english_response": "Hello! Yes, there is an entrance exam for admission to B.Tech at Ganpat University. The admission process involves the following steps:\n\n1. Online application on the university portal\n2. Entrance exam (JEE/GUJCET)\n3. Counseling based on rank\n4. Document verification\n5. Fee payment\n\nApplications for B.Tech open in May every year. If you have any more questions or need further assistance, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "faq",
+        "category": "Admissions",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-01T23:52:52.569633",
+    "conversation_id": "conv_42e05f05be2a",
+    "user_id": null
+  },
+  {
+    "session_id": "01191078-a3db-4419-811c-b81081f60bea",
+    "original_query": "बी.टेक के लिए प्रवेश प्रक्रिया क्या है?",
+    "detected_language": "hi",
+    "language_name": "Hindi",
+    "english_query": "What is the admission process for B.Tech?",
+    "response": "नमस्ते! गणपत विश्वविद्यालय में बी.टेक के लिए प्रवेश प्रक्रिया में निम्नलिखित चरण शामिल हैं:\n\n1. विश्वविद्यालय पोर्टल पर ऑनलाइन आवेदन\n2. प्रवेश परीक्षा (JEE/GUJCET)\n3. रैंक के आधार पर काउंसलिंग\n4. दस्तावेज़ सत्यापन\n5. शुल्क भुगतान\n\nबी.टेक के लिए आवेदन हर साल मई में खुलते हैं। यदि आपके कोई और प्रश्न हैं या अतिरिक्त सहायता की आवश्यकता है, तो बेझिझक पूछें!",
+    "english_response": "Hello! The admission process for B.Tech at Ganpat University involves the following steps:\n\n1. Online application on the university portal\n2. Entrance exam (JEE/GUJCET)\n3. Counseling based on rank\n4. Document verification\n5. Fee payment\n\nApplications for B.Tech open in May every year. If you have any more questions or need further assistance, feel free to ask!",
+    "confidence": 0.8999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Admissions",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Admissions",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-01T23:55:59.228298",
+    "conversation_id": "conv_6e9527da1c14",
+    "user_id": null
+  },
+  {
+    "session_id": "01191078-a3db-4419-811c-b81081f60bea",
+    "original_query": "ભરતી સાને કઈ કંપનીઓ કેમપેની સુલાકાત લેછે?",
+    "detected_language": "gu",
+    "language_name": "Gujarati",
+    "english_query": "Which companies conduct recruitment campaigns?",
+    "response": "ગણપત યુનિવર્સિટીમાં ભરતી ઝુંબેશ ચલાવતા ટોચના રિક્રુટર્સ TCS, Infosys, Wipro અને Cognizant છે. આ કંપનીઓ સપ્ટેમ્બરથી માર્ચ દરમિયાન કેમ્પસની મુલાકાત લે છે, અને વિદ્યાર્થીઓ તાલીમ અને પ્લેસમેન્ટ સેલમાં નોંધણી કરાવ્યા પછી અને પ્રી-પ્લેસમેન્ટ તાલીમમાં હાજરી આપ્યા પછી ઇન્ટરવ્યુમાં ભાગ લઈ શકે છે.",
+    "english_response": "The top recruiters that conduct recruitment campaigns at Ganpat University are TCS, Infosys, Wipro, and Cognizant. These companies visit the campus from September to March, and students can participate in interviews after registering with the Training & Placement cell and attending pre-placement training.",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-01T23:57:46.350803",
+    "conversation_id": "conv_76e4e40182e7",
+    "user_id": null
+  },
+  {
+    "session_id": "60fd4159-74b5-4972-a94b-712b768cc72e",
+    "original_query": "What documents are required during the admission process?",
+    "detected_language": "en",
+    "language_name": "English",
+    "english_query": "What documents are required during the admission process?",
+    "response": "Hello! I'd be happy to help you with that. For the admission process at Ganpat University, you'll need to submit the following documents:\n\n1. 10th and 12th mark sheets\n2. Transfer certificate\n3. Migration certificate\n4. Aadhar card\n5. Passport size photos (4 copies)\n6. Category certificate (if applicable)\n7. Income certificate for scholarship\n\nRemember to self-attest all the documents. If you have any further questions or need clarification, feel free to ask!",
+    "english_response": "Hello! I'd be happy to help you with that. For the admission process at Ganpat University, you'll need to submit the following documents:\n\n1. 10th and 12th mark sheets\n2. Transfer certificate\n3. Migration certificate\n4. Aadhar card\n5. Passport size photos (4 copies)\n6. Category certificate (if applicable)\n7. Income certificate for scholarship\n\nRemember to self-attest all the documents. If you have any further questions or need clarification, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Documents",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Documents",
+        "source": "FAQ"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-02T00:01:25.662451",
+    "conversation_id": "conv_bb87038a37e9",
+    "user_id": null
+  },
+  {
+    "session_id": "60fd4159-74b5-4972-a94b-712b768cc72e",
+    "original_query": "कॉलेज कौन से पाठ्यक्रम प्रदान करता है?",
+    "detected_language": "hi",
+    "language_name": "Hindi",
+    "english_query": "What courses does the college offer?",
+    "response": "नमस्ते! मुझे इसमें आपकी मदद करने में खुशी होगी। दुर्भाग्य से, मेरे पास गणपत विश्वविद्यालय द्वारा प्रस्तावित विशिष्ट पाठ्यक्रमों की जानकारी नहीं है। मैं उपलब्ध पाठ्यक्रमों पर नवीनतम और सटीक जानकारी के लिए प्रवेश विभाग से संपर्क करने या विश्वविद्यालय की आधिकारिक वेबसाइट देखने की सलाह देता हूं। वे आपको वह विवरण प्रदान करने में सक्षम होंगे जो आप तलाश रहे हैं। यदि आपके कोई अन्य प्रश्न हैं या किसी अन्य चीज़ में सहायता की आवश्यकता है, तो बेझिझक पूछें!",
+    "english_response": "Hello! I'd be happy to help you with that. Unfortunately, I don't have the information on the specific courses offered by Ganpat University. I recommend contacting the Admissions Department or checking the university's official website for the most up-to-date and accurate information on available courses. They'll be able to provide you with the details you're looking for. If you have any other questions or need help with something else, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-02T00:02:09.362961",
+    "conversation_id": "conv_0d0dc9c86944",
+    "user_id": null
+  },
+  {
+    "session_id": "60fd4159-74b5-4972-a94b-712b768cc72e",
+    "original_query": "ભરતી સાને કઈ કંપનીઓ કેમપેની સુલાકાત લેછે?",
+    "detected_language": "gu",
+    "language_name": "Gujarati",
+    "english_query": "Which companies conduct recruitment campaigns?",
+    "response": "હેલો! તેમાં તમને મદદ કરવામાં મને આનંદ થશે. અમારા પ્લેસમેન્ટના આંકડા મુજબ, ગણપત યુનિવર્સિટીમાં ભરતી ઝુંબેશ ચલાવતા ટોચના રિક્રુટર્સ TCS, Infosys, Wipro અને Cognizant છે. વધુમાં, અમે Microsoft તરફથી પણ ભરતી કરી છે, જેમાં સૌથી વધુ પેકેજ રૂ. 18 LPA. આ કંપનીઓ સામાન્ય રીતે સપ્ટેમ્બર અને માર્ચ વચ્ચે અમારા કેમ્પસની મુલાકાત લે છે, તેથી પ્લેસમેન્ટ પ્રક્રિયામાં ભાગ લેવા માટે તમારા અંતિમ વર્ષમાં તાલીમ અને પ્લેસમેન્ટ સેલમાં નોંધણી કરાવવાની ખાતરી કરો. જો તમારી પાસે વધુ પ્રશ્નો હોય અથવા વધુ સ્પષ્ટતાની જરૂર હોય, તો નિઃસંકોચ પૂછો!",
+    "english_response": "Hello! I'd be happy to help you with that. According to our placement statistics, the top recruiters that conduct recruitment campaigns at Ganpat University are TCS, Infosys, Wipro, and Cognizant. Additionally, we've had recruitment from Microsoft as well, with the highest package being Rs. 18 LPA. These companies typically visit our campus between September and March, so be sure to register with the Training & Placement cell in your final year to participate in the placement process. If you have any more questions or need further clarification, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-02T00:02:46.635467",
+    "conversation_id": "conv_882121b0c7dd",
+    "user_id": null
+  },
+  {
+    "session_id": "60fd4159-74b5-4972-a94b-712b768cc72e",
+    "original_query": "प्रवेशासाठी प्रवेश परीक्षा असते का?",
+    "detected_language": "mr",
+    "language_name": "Marathi",
+    "english_query": "Is there an entrance exam for admission?",
+    "response": "नमस्कार! त्यामध्ये तुम्हाला मदत करण्यात मला आनंद होईल. होय, गणपत विद्यापीठात बी.टेक प्रोग्राम्सच्या प्रवेशासाठी प्रवेश परीक्षा आहे. प्रवेश प्रक्रियेमध्ये प्रवेश परीक्षा असते, जी जेईई किंवा गुजसेट असू शकते. परीक्षेनंतर, तुमच्या रँकवर आधारित समुपदेशन होईल, त्यानंतर दस्तऐवज पडताळणी आणि शुल्क भरावे लागेल. तुम्हाला प्रवेश प्रक्रियेबद्दल अधिक माहिती हवी असल्यास किंवा विशिष्ट प्रश्न असल्यास, मोकळ्या मनाने विचारा!",
+    "english_response": "Hello! I'd be happy to help you with that. Yes, there is an entrance exam for admission to B.Tech programs at Ganpat University. The admission process involves an entrance exam, which can be either JEE or GUJCET. After the exam, there will be counseling based on your rank, followed by document verification and fee payment. If you'd like more information on the admission process or have specific questions, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "faq",
+        "category": "Admissions",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-02T00:03:18.782471",
+    "conversation_id": "conv_07560fc38cc8",
+    "user_id": null
+  },
+  {
+    "session_id": "60fd4159-74b5-4972-a94b-712b768cc72e",
+    "original_query": "Tell me about the admission process",
+    "detected_language": "en",
+    "language_name": "English",
+    "english_query": "Tell me about the admission process",
+    "response": "Hello! I'd be happy to help you with the admission process. The admission process for B.Tech programs at Ganpat University involves the following steps: \n\n1. Online application on the university portal, which opens in May every year.\n2. An entrance exam, which can be either JEE or GUJCET.\n3. Counseling based on your rank.\n4. Document verification.\n5. Fee payment.\n\nIf you'd like more information or have specific questions, feel free to ask! For the most up-to-date information, you can also check the university's official website or contact the Admissions Department.",
+    "english_response": "Hello! I'd be happy to help you with the admission process. The admission process for B.Tech programs at Ganpat University involves the following steps: \n\n1. Online application on the university portal, which opens in May every year.\n2. An entrance exam, which can be either JEE or GUJCET.\n3. Counseling based on your rank.\n4. Document verification.\n5. Fee payment.\n\nIf you'd like more information or have specific questions, feel free to ask! For the most up-to-date information, you can also check the university's official website or contact the Admissions Department.",
+    "confidence": 0.8999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Admissions",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Admissions",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-02T00:14:48.147077",
+    "conversation_id": "conv_b16817120bf3",
+    "user_id": null
+  },
+  {
+    "session_id": "60fd4159-74b5-4972-a94b-712b768cc72e",
+    "original_query": "कॉलेज कौन से पाठ्यक्रम प्रदान करता है?",
+    "detected_language": "hi",
+    "language_name": "Hindi",
+    "english_query": "What courses does the college offer?",
+    "response": "नमस्ते! मुझे इसमें आपकी मदद करने में खुशी होगी। दुर्भाग्य से, मेरे पास गणपत विश्वविद्यालय द्वारा प्रस्तावित पाठ्यक्रमों के बारे में विशेष जानकारी नहीं है। पिछली बातचीत भर्ती अभियान, प्रवेश परीक्षा और बी.टेक कार्यक्रमों के लिए प्रवेश प्रक्रियाओं के बारे में थी। प्रस्तावित पाठ्यक्रमों की नवीनतम जानकारी के लिए, मेरा सुझाव है कि विश्वविद्यालय की आधिकारिक वेबसाइट देखें या सीधे प्रवेश विभाग से संपर्क करें। वे आपको उपलब्ध पाठ्यक्रमों पर सबसे सटीक और विस्तृत जानकारी प्रदान करने में सक्षम होंगे। यदि आपके कोई अन्य प्रश्न हैं या किसी अन्य चीज़ में सहायता की आवश्यकता है, तो बेझिझक पूछें!",
+    "english_response": "Hello! I'd be happy to help you with that. Unfortunately, I don't have the specific information on the courses offered by Ganpat University. The previous conversations were about recruitment campaigns, entrance exams, and admission processes for B.Tech programs. For the most up-to-date information on the courses offered, I suggest checking the university's official website or contacting the Admissions Department directly. They'll be able to provide you with the most accurate and detailed information on the courses available. If you have any other questions or need help with something else, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-02T00:15:38.508492",
+    "conversation_id": "conv_3333efc67744",
+    "user_id": null
+  },
+  {
+    "session_id": "60fd4159-74b5-4972-a94b-712b768cc72e",
+    "original_query": "ભરતી સાને કઈ કંપનીઓ કેમપેની સુલાકાત લેછે?",
+    "detected_language": "gu",
+    "language_name": "Gujarati",
+    "english_query": "Which companies conduct recruitment campaigns?",
+    "response": "હેલો! તેમાં તમને મદદ કરવામાં મને આનંદ થશે. અમારા પ્લેસમેન્ટના આંકડા મુજબ, ગણપત યુનિવર્સિટીમાં ભરતી ઝુંબેશ ચલાવતા ટોચના રિક્રુટર્સ TCS, Infosys, Wipro અને Cognizant છે. વધુમાં, અમે Microsoft તરફથી પણ ભરતી કરી છે, જેમાં સૌથી વધુ પેકેજ રૂ. 18 LPA. આ કંપનીઓ સામાન્ય રીતે સપ્ટેમ્બર અને માર્ચ વચ્ચે અમારા કેમ્પસની મુલાકાત લે છે. જો તમને પ્લેસમેન્ટ પ્રક્રિયા વિશે વધુ માહિતી જોઈતી હોય અથવા ચોક્કસ પ્રશ્નો હોય, તો નિઃસંકોચ પૂછો!",
+    "english_response": "Hello! I'd be happy to help you with that. According to our placement statistics, the top recruiters that conduct recruitment campaigns at Ganpat University are TCS, Infosys, Wipro, and Cognizant. Additionally, we've had recruitment from Microsoft as well, with the highest package being Rs. 18 LPA. These companies typically visit our campus between September and March. If you'd like more information on the placement process or have specific questions, feel free to ask!",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      },
+      {
+        "type": "faq",
+        "category": "Placements",
+        "source": "FAQ"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      }
+    ],
+    "timestamp": "2025-11-02T00:16:18.763420",
+    "conversation_id": "conv_e5269cea74ee",
+    "user_id": null
+  },
+  {
+    "session_id": "60fd4159-74b5-4972-a94b-712b768cc72e",
+    "original_query": "प्रवेशासाठी प्रवेश परीक्षा असते का?",
+    "detected_language": "mr",
+    "language_name": "Marathi",
+    "english_query": "Is there an entrance exam for admission?",
+    "response": "होय, गणपत विद्यापीठात बी.टेक प्रोग्राम्सच्या प्रवेशासाठी प्रवेश परीक्षा आहे. प्रवेश परीक्षा JEE किंवा GUJCET असू शकते. प्रवेश प्रक्रियेत पुढील चरणांचा समावेश आहे: \n\n1. विद्यापीठ पोर्टलवर ऑनलाइन अर्ज, जे दरवर्षी मे मध्ये उघडतात.\n2. एक प्रवेश परीक्षा, जी JEE किंवा GUJCET असू शकते.\n3. तुमच्या रँकवर आधारित समुपदेशन.\n4. दस्तऐवज पडताळणी.\n5. फी भरणे.\n\nतुम्हाला अधिक माहिती हवी असल्यास किंवा विशिष्ट प्रश्न असल्यास, मोकळ्या मनाने विचारा! सर्वात अद्ययावत माहितीसाठी, तुम्ही विद्यापीठाची अधिकृत वेबसाइट देखील तपासू शकता किंवा प्रवेश विभागाशी संपर्क साधू शकता.",
+    "english_response": "Yes, there is an entrance exam for admission to B.Tech programs at Ganpat University. The entrance exam can be either JEE or GUJCET. The admission process involves the following steps: \n\n1. Online application on the university portal, which opens in May every year.\n2. An entrance exam, which can be either JEE or GUJCET.\n3. Counseling based on your rank.\n4. Document verification.\n5. Fee payment.\n\nIf you'd like more information or have specific questions, feel free to ask! For the most up-to-date information, you can also check the university's official website or contact the Admissions Department.",
+    "confidence": 0.9999999999999999,
+    "needs_human_handoff": false,
+    "sources": [
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "circular",
+        "category": "General",
+        "source": "Circular"
+      },
+      {
+        "type": "faq",
+        "category": "Admissions",
+        "source": "FAQ"
+      }
+    ],
+    "timestamp": "2025-11-02T00:16:53.749563",
+    "conversation_id": "conv_47c09b653979",
+    "user_id": null
   }
 ]
