@@ -1,0 +1,171 @@
+/* ============================================================================
+   UniVerse — Minimal, Neutral, Accessible (no gradients)
+   ============================================================================ */
+
+/* ---- Tokens (light) ---- */
+:root{
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --surface-2: #f3f4f6;
+  --text: #111827;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+  --accent: #2563eb;   /* single accent */
+  --success: #16a34a;
+  --warn: #d97706;
+  --danger: #dc2626;
+  --r-lg: 10px;
+  --r-sm: 6px;
+  --shadow: 0 1px 2px rgba(0,0,0,.04);
+}
+
+/* ---- Dark (optional) ---- */
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg: #0b0f14;
+    --surface: #10151c;
+    --surface-2: #0d131a;
+    --text: #e5e7eb;
+    --muted: #9aa3b2;
+    --border: #1f2937;
+    --accent: #3b82f6;
+    --shadow: none;
+  }
+}
+
+/* ---- App shell ---- */
+html, body{ background: var(--bg) !important; color: var(--text) !important; }
+.main .block-container{
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow);
+  padding: 16px 16px 10px;
+}
+
+[data-testid="stSidebar"]{ background: var(--surface-2) !important; border-right: 1px solid var(--border); }
+[data-testid="stSidebar"] .block-container{ background: transparent !important; padding-top: 10px !important; box-shadow: none !important; }
+
+hr, .uv-hr{ border: 0; border-top: 1px solid var(--border); margin: 12px 0; }
+
+/* ---- Header ---- */
+.uv-header{ text-align:center; padding: 16px 0 8px; }
+.uv-title{ margin: 0; font-size: 2.6rem; font-weight: 800; color: var(--text); }
+.uv-subtitle{ margin: 6px 0 0; font-size: 1.05rem; color: var(--muted); }
+
+/* ---- Sidebar brand ---- */
+.uv-sidebrand{ text-align: left; padding: 8px 4px; }
+.uv-sidebrand-title{ font-weight: 800; font-size: 1.2rem; margin: 0 0 2px; }
+.uv-sidebrand-sub{ color: var(--muted); font-size: .9rem; }
+
+/* ---- Banner ---- */
+.uv-banner{
+  display:flex; gap:12px; justify-content:center; align-items:center;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin: 10px 0 6px;
+}
+
+/* ---- Welcome card ---- */
+.uv-welcome{
+  text-align:center;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 24px 18px;
+}
+.uv-welcome h2{ margin: 0 0 8px; }
+.uv-welcome .lead{ color: var(--muted); margin: 6px 0 14px; }
+.uv-welcome .muted{ color: var(--muted); font-size: .92rem; }
+
+/* ---- Inputs ---- */
+.stSelectbox{ margin-bottom: 8px; }
+.stTextInput input, .stTextArea textarea, input[type="text"], textarea{
+  background: var(--surface) !important; color: var(--text) !important;
+  border: 1px solid var(--border) !important; border-radius: 8px !important;
+  padding: 10px 12px !important; font-size: 0.98rem !important;
+}
+.stTextInput input:focus, .stTextArea textarea:focus, input[type="text"]:focus, textarea:focus{
+  outline: none !important; border-color: var(--accent) !important;
+  box-shadow: 0 0 0 2px rgba(37,99,235,.18) !important;
+}
+
+/* ---- Buttons ---- */
+.stButton > button{
+  background: var(--accent) !important; color: #fff !important;
+  border: 1px solid var(--accent) !important; border-radius: 8px !important;
+  padding: 10px 14px !important; font-weight: 600 !important;
+}
+.stButton > button:disabled{ opacity: .6 !important; }
+.button-secondary > button{
+  background: var(--surface) !important; color: var(--text) !important;
+  border: 1px solid var(--border) !important;
+}
+
+/* ---- Quick-start chips ---- */
+.quick-start-title{ font-weight: 800; margin-bottom: 4px; }
+.quick-question-btn{
+  display: inline-block; background: var(--surface);
+  border: 1px solid var(--border); color: var(--text);
+  border-radius: 999px; padding: 8px 14px; font-size: .95rem; margin: 6px 6px 0 0;
+}
+.quick-question-btn:hover{ border-color: var(--accent); }
+
+/* ---- Messages ---- */
+.uv-msg-row{ display:flex; }
+.uv-right{ justify-content:flex-end; }
+
+.message{
+  max-width: 880px; padding: 12px 14px; margin: 10px 0;
+  border-radius: 8px; border: 1px solid var(--border);
+  background: var(--surface-2); line-height: 1.55;
+}
+.user-message{ margin-left:auto; background: var(--surface); border-color: var(--accent); }
+.bot-message{ background: var(--surface-2); }
+
+/* ---- Meta / badges ---- */
+.confidence-pill{
+  display:inline-block; padding: 3px 10px; border-radius: 999px;
+  font-size: .86rem; font-weight: 600; border: 1px solid var(--border);
+  background: var(--surface);
+}
+.confidence-high{ color: var(--success); }
+.confidence-medium{ color: var(--warn); }
+.confidence-low{ color: var(--danger); }
+
+.source-badges{ margin-top: 6px; }
+.source-badge{
+  display:inline-block; background: transparent; color: var(--text);
+  border: 1px solid var(--border); padding: 3px 10px; border-radius: 999px;
+  font-size: .86rem; margin: 3px 6px 0 0;
+}
+.source-badge::before{ content:"• "; color: var(--accent); }
+
+/* ---- Metrics / alerts ---- */
+[data-testid="stMetricValue"]{ font-size: 1.1rem !important; font-weight: 800 !important; color: var(--accent) !important; }
+.stSuccess{ background: transparent !important; border-left: 3px solid var(--success) !important; }
+.stError  { background: transparent !important; border-left: 3px solid var(--danger) !important; }
+.stWarning{ background: transparent !important; border-left: 3px solid var(--warn) !important; }
+.stInfo   { background: transparent !important; border-left: 3px solid var(--accent) !important; }
+
+/* ---- Footer ---- */
+.footer{ text-align:center; color: var(--muted); font-size: .92rem; padding: 14px 6px; }
+.footer .footer-brand{ font-weight: 800; }
+.footer .footer-sub{ color: var(--muted); }
+.footer .footer-small{ color: var(--muted); font-size: .88rem; }
+
+/* ---- Scrollbar ---- */
+::-webkit-scrollbar{ width: 10px; height: 10px; }
+::-webkit-scrollbar-track{ background: transparent; }
+::-webkit-scrollbar-thumb{ background: #cbd5e1; border-radius: 8px; }
+@media (prefers-color-scheme: dark){ ::-webkit-scrollbar-thumb{ background: #475569; } }
+
+/* ---- Responsive ---- */
+@media (max-width: 768px){
+  .main .block-container{ padding: 12px; }
+  .message{ max-width: 100%; }
+  .quick-question-btn{ width: 100%; text-align: center; }
+}
